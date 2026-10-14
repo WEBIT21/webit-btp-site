@@ -1,6 +1,6 @@
 # Site vitrine WEBIT BTP
 
-Site statique (aucun serveur) : `index.html` (site), `terrain.js` (chantier 3D), `app-dash.webp` et `app-devis.webp` (captures du logiciel), `favicon.svg`, `CNAME`.
+Site statique (aucun serveur) : `index.html` (site), `terrain.js` (chantier 3D), `app-dash.webp` et `app-devis.webp` (captures du logiciel), `mentions-legales.html`, `confidentialite.html`, `favicon.svg`, `CNAME`.
 
 ## Mise en ligne avec GitHub Pages
 1. Créez un dépôt GitHub `webit-btp-site` et poussez ces fichiers sur la branche `main`.
